@@ -1,0 +1,35 @@
+//
+//  AlertIDs.h
+//  Commerce Sample
+//
+//  Created by Bryan, Edward P on 11/11/14.
+//  Copyright (c) 2014 Elavon. All rights reserved.
+//
+
+#ifndef Commerce_Sample_AlertIDs_h
+#define Commerce_Sample_AlertIDs_h
+
+#define ALERT_TAG_RECEIPT_EMAIL 1
+#define ALERT_TAG_RECEIPT_SMS 2
+#define ALERT_TAG_AMOUNTTENDERED 7
+#define ALERT_TAG_HISTORICAL_RECEIPT_EMAIL 8
+#define ALERT_TAG_RECEIPT_PRINT 9
+#define ALERT_TAG_RECEIPT_PRINT_PAPER_SIZE 10
+#define ALERT_TAG_RECEIPT_HISTORICAL_TRANSACTION_PRINT 11
+
+#define ALERT_TAG_AVS_ADDRESS 13
+#define ALERT_TAG_AVS_ZIP 14
+#define ALERT_TAG_AVS_CITY 15
+#define ALERT_TAG_AVS_STATE 16
+#define ALERT_TAG_AVS_COUNTRY 17
+#define ALERT_TAG_AVS_EMAIL 18
+#define ALERT_TAG_AVS_FIRSTNAME 19
+#define ALERT_TAG_AVS_LASTNAME 20
+#define ALERT_TAG_FORCE_SALE_CODE 21
+#define ALERT_TAG_FORCE_MANUAL_ENTRY 22
+#define ALERT_TAG_TOKEN 23
+#define ALERT_TAG_GRATUITY_SUPPORT 24
+#define ALERT_TAG_CARD_PRESENT 25
+#define ALERT_TAG_FINAL_AMOUNT 26
+
+#endif
